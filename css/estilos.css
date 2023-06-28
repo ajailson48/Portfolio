@@ -512,7 +512,23 @@ input,textarea,select{
     color: #e8dfec;
 }
 
-btn btn-primary {
+.btn btn-primary {
+    margin: 0.5rem;
+}
+
+.portfolio li {
+    display: inline-block;
+    text-align: center;
+}
+
+.portfolio img {
+    border: 4px solid #504e70;
+    margin: 0.5rem;
+    border-radius: 5%;
+    color: #e8dfec; 
+}
+
+.btn btn-primary {
     margin: 0.5rem;
 }
 
